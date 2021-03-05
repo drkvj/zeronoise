@@ -14,7 +14,7 @@
       "primary": "2d2a3d", // Applies as solid color to Post Titles and to other text as a tint 
       "secondary": "f4f4f9", // Applies to the background and .nav-pills>li a.active
       "tertiary": "2972F6", // Call to actions and links
-      "quaternary": "2F3441", // You can see it in the top menu
+      "quaternary": "ffffff", // You can see it in the top menu
       "header_background": "FAD823",
       "header_primary": "ffffff", // It's the text and icons color in the header
       "highlight": "8a51e7", // Applies to the title of the list of Time Periods in the "Top" tab of the main menu.
