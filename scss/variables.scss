@@ -111,7 +111,7 @@
   // --discord-hover: #4a67cf;
   // --gold: #e7c300;
   // --silver: silver;
-  --main-background: #F2F2F7;
+  --main-background: var(--quaternary);
   --light-accent: var(--quaternary);
   --heading-font-family: "Playfair Display", serif;
 }
